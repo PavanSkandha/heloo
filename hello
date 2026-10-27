@@ -1,2 +1,6 @@
 hiiiiii
+<<<<<<< HEAD
 this is my remote change
+=======
+this is my local page
+>>>>>>> 78d32d8 (local change)
